@@ -1,0 +1,45 @@
+label,node_type
+Marcus BRODY.,PERSON
+2002,DATE
+Goma,LOC
+ ,LOC
+Goma,LOC
+Congo,GPE
+ ,LOC
+Chief KOBONO,RANK
+ ,ORG
+ ,LOC
+ ,LOC
+ ,LOC
+ ,ORG
+Kalemie,GPE
+first,ORDINAL
+first,ORDINAL
+ ,NORP
+ ,LOC
+ ,RANK
+ ,RANK
+ ,LOC
+ ,LOC
+"
+",GPE
+BAGOR,ORG
+ ,LOC
+ ,LOC
+ ,LOC
+ ,LOC
+Ule MATOBO GOBO,PERSON
+ ,NORP
+ ,LOC
+ ,LOC
+ ,LOC
+ ,LOC
+ ,LOC
+ ,RANK
+Congo,GPE
+ ,LOC
+ ,RANK
+ ,RANK
+Congo,GPE
+ ,LOC
+ ,LAW
